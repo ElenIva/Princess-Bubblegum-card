@@ -29,7 +29,7 @@ img{
 }
 
 .card:hover .img-back{
-    display: none
+    display: none;
 }
 
 .card:hover {
